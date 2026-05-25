@@ -1,0 +1,74 @@
+aid: wefox
+name: wefox
+description: >-
+  wefox is a Berlin-headquartered digital insurance distribution platform that
+  connects insurance carriers, brokers, and end customers through a single
+  technology stack. Founded in 2014 and originally known as FinanceFox, the
+  company operates across Germany, Austria, Switzerland, Italy, the
+  Netherlands, Spain, and France, selling personal-lines products such as
+  motor, home, liability, life, and commercial insurance via its in-house
+  carrier (wefox Insurance) and a network of independent brokers. wefox
+  positions itself as an "indirect" insurtech — meaning it distributes
+  through human advisors augmented by software rather than selling
+  direct-to-consumer — and has historically been one of Europe's most
+  highly funded insurtech companies, with backing from Mubadala, Target
+  Global, Salesforce Ventures, OMERS Ventures, Eurazeo, Mountain Partners,
+  and others. The platform itself is a multi-tenant SaaS used by brokers and
+  agents to manage customer relationships, quote and bind policies across
+  multiple carriers, handle claims, and trigger commissions. wefox does not
+  publish a public developer portal, OpenAPI specifications, SDKs, or a
+  github.com/wefox organization; integration with the wefox platform is
+  carrier-, broker-, and partner-mediated rather than self-service, and
+  there is no Tier-1 developer surface to document. This repo profiles
+  wefox as an insurance distribution business and tracks any future move
+  toward a public API program.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Insurance
+  - Insurtech
+  - Digital Insurance
+  - Insurance Distribution
+  - Broker Platform
+  - Motor Insurance
+  - Home Insurance
+  - Liability Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Europe
+  - Germany
+  - Berlin
+  - Financial Services
+url: https://raw.githubusercontent.com/api-evangelist/wefox/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.wefox.com
+  - type: About
+    url: https://www.wefox.com/about
+  - type: Leadership
+    url: https://www.wefox.com/about/leadership
+  - type: Newsroom
+    url: https://www.wefox.com/newsroom
+  - type: Austria
+    url: https://www.wefox.com/wefox-austria
+  - type: Switzerland
+    url: https://www.wefox.com/wefox-switzerland
+  - type: Germany
+    url: https://www.wefox.com/de-de
+  - type: Imprint
+    url: https://www.wefox.com/imprint
+  - type: Privacy
+    url: https://www.wefox.com/privacy
+  - type: Terms
+    url: https://www.wefox.com/taf
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wefox
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
