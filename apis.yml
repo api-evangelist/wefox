@@ -51,6 +51,21 @@ tags:
   - Europe
   - Germany
   - Berlin
+  - Financial-Services
+tags_raw:
+  - Insurance
+  - Insurtech
+  - Digital Insurance
+  - Insurance Distribution
+  - Broker Platform
+  - Motor Insurance
+  - Home Insurance
+  - Liability Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Europe
+  - Germany
+  - Berlin
   - Financial Services
 url: https://raw.githubusercontent.com/api-evangelist/wefox/refs/heads/main/apis.yml
 created: '2026-05-25'
