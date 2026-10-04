@@ -62,7 +62,7 @@ tags:
   - Europe
   - Germany
   - Berlin
-  - Financial-Services
+  - Financial Services
 tags_raw:
   - Insurance
   - Insurtech
@@ -78,6 +78,7 @@ tags_raw:
   - Germany
   - Berlin
   - Financial Services
+  - Financial-Services
 url: https://raw.githubusercontent.com/api-evangelist/wefox/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
